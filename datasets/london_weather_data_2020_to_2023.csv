@@ -1,4 +1,4 @@
-date,tmax,tmin,tmean,sun_hrs,snow_depth_cm,precip_mm,rad_W_m2,sl_press_hPA,hum_perc,cloud_cover_oktas
+date,tmax,tmin,tmean,sun_hrs,snow_depth_cm,precip_mm,rad_W_m2,sl_press_hPA,hum_perc,cc_oktas
 20200101,11,1.7,4.9,0,0,0,13,1029.3,90,7
 20200102,10,4.7,7.8,0,0,20,13,1020.4,89,8
 20200103,9,8,9,2.7,0,0,22,1021.4,81,4
